@@ -2,7 +2,7 @@
 // @name         Channel.io Dot Style Modifier
 // @namespace    https://github.com/yourusername
 // @version      2.1
-// @description  Change notification dot to red on Channel.io Desk using CSS injection
+// @description  Change notification reddot program
 // @author       문동규 / 수정 윤도우리
 // @match        https://desk.channel.io/*
 // @grant        GM_addStyle
