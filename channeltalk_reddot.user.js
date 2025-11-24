@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Channel.io Dot Style Modifier (CSS Injection)
+// @name         Channel.io Dot Style Modifier
 // @namespace    https://github.com/yourusername
 // @version      2.1
 // @description  Change notification dot to red on Channel.io Desk using CSS injection
@@ -32,5 +32,5 @@
         }
     `);
     
-    console.log('Channel.io Dot Style Modifier (CSS Injection) loaded');
+    console.log('Channel.io Dot Style Modifier loaded');
 })();
